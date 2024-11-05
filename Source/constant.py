@@ -1,0 +1,11 @@
+Red = (255, 0, 0)
+Pretty_Red = (100, 0, 0)
+Grey = (100, 100, 100)
+Yellow = (255,255,0)
+Blue = (0,255,0)
+Green = (0, 0, 255)
+White = (255, 255, 255)
+Black = (0,0,0)
+Unit_Dimention = 45
+Window_Width = Unit_Dimention * 21 + 100
+Window_Height = Unit_Dimention * 13
